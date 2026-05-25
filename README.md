@@ -142,8 +142,3 @@ ai-compatibility/
 - AI scoring uses a deep scan per-file. For large repos, allow several minutes.
 - A `reports.json` seed file can be placed in `src/main/resources/` to serve as fallback data when no live scan exists.
 
----
-
-## License
-
-MIT
